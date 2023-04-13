@@ -10,5 +10,6 @@ public static class StringLibrary
         char ch = str[0];
         return char.IsUpper(ch);
         //added a comment
+        //added as second comment
     }
 }
