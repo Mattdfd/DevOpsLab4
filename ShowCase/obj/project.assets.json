@@ -271,7 +271,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/mmikha10/Lab4.2/_packaging/Lab4-A/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/mmikha10/lab4.3/_packaging/lab4-feed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
