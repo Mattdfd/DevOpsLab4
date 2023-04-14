@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/OCOKEthO9fpR9Hn7xGX+4kknHmxUQXpmgll3SJSbg6zyoE2ZCwkHEkTw0T9oqXmnfGSoIZhkqu0ImluHhJxGg==",
+  "dgSpecHash": "aLkelhFSc8qDG3HlzYzQvvIp21Z4k7xI3t/Sr+9l/1088IqZ+8M2B8wbhv/EGC2oP+nUi19A/32w4bF5HHJ4iA==",
   "success": true,
   "projectFilePath": "C:\\centennial\\Semester 5\\DevOps\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mattd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mattd\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\mattd\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xwHl1omuL7cuuO+2aMr+ML6w3TDcFq1T2oW+sSFu6shPGIWUbFafyEhUckwWLw3MFl98SmdcRIqW07k+Tj7flA==",
+  "dgSpecHash": "WCYG77RzoFiXitaHvn1RJ4avmIpEymoQ+fsd1//T3UQBVHCym3fP9nDmy93Qg+T89nkFb5OosrVCxe0X8qZ3LA==",
   "success": true,
   "projectFilePath": "C:\\centennial\\Semester 5\\DevOps\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mattd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mattd\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\mattd\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
